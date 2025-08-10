@@ -1,6 +1,13 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
+# Server configuration
+baseURL = "http://localhost:8080"
+
+[server]
+port = 8080
+bind = "0.0.0.0"
+
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

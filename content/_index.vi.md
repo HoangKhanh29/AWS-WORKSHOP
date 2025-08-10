@@ -4,7 +4,7 @@ date: 2025-06-18
 weight : 1 
 chapter : false
 ---
-# Xây dựng Hệ thống Thông báo và Quản lý File Serverless với AWS S3, Lambda, SNS, DynamoDB và API Gateway
+# Xử lý dữ liệu thời gian thực với Kinesis, Lambda và S3
 
 ### Tổng quan
 
@@ -15,13 +15,14 @@ Workshop này hướng dẫn bạn xây dựng một hệ thống thông báo v�
 
 Khuyến nghị: Bắt đầu với Option 1 để nắm các khái niệm serverless cơ bản, sau đó chuyển sang Option 2 để khám phá các tính năng nâng cao.
 
-![aws_serverless_workshop_landscape](/images/aws_serverless_workshop_landscape.png) 
+![ConnectPrivate](/images/log-arrc.jpg) 
 
 ### Nội dung
 
- 1. [Giới thiệu](1-introduce/)
- 2. [Các bước chuẩn bị](2-Prerequiste/)
- 3. [OPTION 1: Hệ thống Cơ bản](3-Option_1/).
- 4. [OPTION 2: Hệ thống Nâng Cao](4.Option_2/)
- 5. [Test Hệ thống](5-Test-System/)
- 6. [Dọn dẹp tài nguyên](6-cleanup/)
+### Content
+ 1. [Introduction](1-introduce/)
+ 2. [Preparation](2-Prerequiste/)
+ 3. [Setting-create-s3](3-setting-create-s3/)
+ 4. [Setting-up-kinesis](4-setting-up-kinesis/)
+ 5. [Logging-with-cloudwatch](5-logging-with-cloudwatch/)
+ 6. [Cleaning-up-resources](6-cleanup/)
