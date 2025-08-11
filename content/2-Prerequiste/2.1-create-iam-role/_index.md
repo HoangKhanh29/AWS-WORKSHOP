@@ -15,7 +15,7 @@ The architecture overview after you complete this step will be as follows:
     - Click Create Role.
     - Click AWS service, then click Lambda to confirm. 
    
-![ConnectPrivate](../images/2.prerequisite/A-1.jpg) 
+![ConnectPrivate](https://hoangkhanh29.github.io/AWS-WORKSHOP/images/2.prerequisite/A-1.jpg) 
 ![ConnectPrivate](/images/2.prerequisite/A-2.jpg)
 ![ConnectPrivate](/images/2.prerequisite/A-3.png)
 
